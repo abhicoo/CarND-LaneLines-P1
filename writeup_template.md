@@ -13,8 +13,8 @@ The goals / steps of this project are the following:
 [image3]: ./test_images_output/solidYellowCurve.jpg "Result 3"
 [image4]: ./test_images_output/whiteCarLaneSwitch.jpg "Result 4"
 [image5]: ./test_images_output/video_output_1.png "Result 5"
-[image6]: ./test_images_output/video_output_2_.png "Result 6"
-[image7]: ./test_images_output/video_output_3_.png "Result 7"
+[image6]: ./test_images_output/video_output_2.png "Result 6"
+[image7]: ./test_images_output/video_output_3.png "Result 7"
 
 ---
 
